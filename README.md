@@ -26,9 +26,13 @@ The AI aims to maximize the player's score by making optimal moves based on the 
 ## Usage
 
 To run the program, use the following command:
-```python main.py```
+```
+python main.py
+```
 To test the AI's performance on 15 test states, use:
-```python main.py -t 1```
+```
+python main.py -t 1
+```
 
 ## In-Game Keyboard Options
 
